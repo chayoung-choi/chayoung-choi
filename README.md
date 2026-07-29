@@ -1,10 +1,3 @@
-<div align="center" style="display:flex">
-  
-[![GitHub stats](https://vercel-fsm9bwidk-chayoung-choi.vercel.app/api?username=chayoung-choi&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://vercel-fsm9bwidk-chayoung-choi.vercel.app/api/top-langs/?username=chayoung-choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
 <h3 align="center">🛠 Tech Stack</h2>
 <div align="center" style="display:flex">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
